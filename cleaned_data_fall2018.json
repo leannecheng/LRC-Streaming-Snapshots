@@ -1,0 +1,392 @@
+{
+  "terms": {
+    "Fall 2018": {
+      "total_students": 4752,
+      "total_reservations": 583,
+      "departments": {
+        "Aas": {
+          "levels": {
+            "100": {
+              "students": 17,
+              "reservations": 14
+            },
+            "400": {
+              "students": 18,
+              "reservations": 41
+            },
+            "500": {
+              "students": 7,
+              "reservations": 3
+            }
+          },
+          "total_students": 42,
+          "total_reservations": 58
+        },
+        "Amcult": {
+          "levels": {
+            "200": {
+              "students": 104,
+              "reservations": 3
+            }
+          },
+          "total_students": 104,
+          "total_reservations": 3
+        },
+        "Asian: Sanskrit": {
+          "levels": {
+            "200": {
+              "students": 16,
+              "reservations": 1
+            }
+          },
+          "total_students": 16,
+          "total_reservations": 1
+        },
+        "Asian: Korean": {
+          "levels": {
+            "200": {
+              "students": 22,
+              "reservations": 6
+            },
+            "300": {
+              "students": 12,
+              "reservations": 5
+            },
+            "400": {
+              "students": 34,
+              "reservations": 8
+            }
+          },
+          "total_students": 68,
+          "total_reservations": 19
+        },
+        "Asian: Indonesian": {
+          "levels": {
+            "200": {
+              "students": 6,
+              "reservations": 2
+            }
+          },
+          "total_students": 6,
+          "total_reservations": 2
+        },
+        "Asian: Thai": {
+          "levels": {
+            "200": {
+              "students": 3,
+              "reservations": 1
+            },
+            "400": {
+              "students": 5,
+              "reservations": 2
+            }
+          },
+          "total_students": 8,
+          "total_reservations": 3
+        },
+        "Asian: Japanese": {
+          "levels": {
+            "300": {
+              "students": 47,
+              "reservations": 15
+            },
+            "400": {
+              "students": 20,
+              "reservations": 1
+            }
+          },
+          "total_students": 67,
+          "total_reservations": 16
+        },
+        "Asian: Chinese": {
+          "levels": {
+            "300": {
+              "students": 53,
+              "reservations": 12
+            }
+          },
+          "total_students": 53,
+          "total_reservations": 12
+        },
+        "Bcs": {
+          "levels": {
+            "300": {
+              "students": 25,
+              "reservations": 20
+            }
+          },
+          "total_students": 25,
+          "total_reservations": 20
+        },
+        "Catalan": {
+          "levels": {
+            "200": {
+              "students": 20,
+              "reservations": 1
+            }
+          },
+          "total_students": 20,
+          "total_reservations": 1
+        },
+        "Complit": {
+          "levels": {
+            "100": {
+              "students": 156,
+              "reservations": 5
+            },
+            "500": {
+              "students": 3,
+              "reservations": 2
+            }
+          },
+          "total_students": 159,
+          "total_reservations": 7
+        },
+        "Eli": {
+          "levels": {
+            "300": {
+              "students": 25,
+              "reservations": 1
+            }
+          },
+          "total_students": 25,
+          "total_reservations": 1
+        },
+        "French": {
+          "levels": {
+            "200": {
+              "students": 488,
+              "reservations": 24
+            },
+            "300": {
+              "students": 30,
+              "reservations": 3
+            }
+          },
+          "total_students": 518,
+          "total_reservations": 27
+        },
+        "German": {
+          "levels": {
+            "100": {
+              "students": 138,
+              "reservations": 8
+            },
+            "200": {
+              "students": 319,
+              "reservations": 20
+            },
+            "300": {
+              "students": 152,
+              "reservations": 29
+            },
+            "400": {
+              "students": 50,
+              "reservations": 8
+            },
+            "500": {
+              "students": 7,
+              "reservations": 2
+            }
+          },
+          "total_students": 666,
+          "total_reservations": 67
+        },
+        "Greekmod": {
+          "levels": {
+            "200": {
+              "students": 13,
+              "reservations": 6
+            }
+          },
+          "total_students": 13,
+          "total_reservations": 6
+        },
+        "Hebrew": {
+          "levels": {
+            "200": {
+              "students": 17,
+              "reservations": 4
+            },
+            "300": {
+              "students": 20,
+              "reservations": 6
+            },
+            "400": {
+              "students": 4,
+              "reservations": 6
+            }
+          },
+          "total_students": 41,
+          "total_reservations": 16
+        },
+        "Hist": {
+          "levels": {
+            "100": {
+              "students": 229,
+              "reservations": 1
+            }
+          },
+          "total_students": 229,
+          "total_reservations": 1
+        },
+        "Histart": {
+          "levels": {
+            "400": {
+              "students": 16,
+              "reservations": 5
+            }
+          },
+          "total_students": 16,
+          "total_reservations": 5
+        },
+        "Honors": {
+          "levels": {
+            "200": {
+              "students": 106,
+              "reservations": 1
+            }
+          },
+          "total_students": 106,
+          "total_reservations": 1
+        },
+        "Italian": {
+          "levels": {
+            "100": {
+              "students": 14,
+              "reservations": 1
+            },
+            "300": {
+              "students": 8,
+              "reservations": 4
+            },
+            "400": {
+              "students": 4,
+              "reservations": 7
+            }
+          },
+          "total_students": 26,
+          "total_reservations": 12
+        },
+        "Judaic": {
+          "levels": {
+            "300": {
+              "students": 12,
+              "reservations": 3
+            }
+          },
+          "total_students": 12,
+          "total_reservations": 3
+        },
+        "Ling": {
+          "levels": {
+            "100": {
+              "students": 293,
+              "reservations": 1
+            }
+          },
+          "total_students": 293,
+          "total_reservations": 1
+        },
+        "Mes": {
+          "levels": {
+            "200": {
+              "students": 28,
+              "reservations": 3
+            },
+            "300": {
+              "students": 21,
+              "reservations": 11
+            }
+          },
+          "total_students": 49,
+          "total_reservations": 14
+        },
+        "Mideast": {
+          "levels": {
+            "200": {
+              "students": 47,
+              "reservations": 1
+            },
+            "300": {
+              "students": 19,
+              "reservations": 22
+            }
+          },
+          "total_students": 66,
+          "total_reservations": 23
+        },
+        "Portugueses": {
+          "levels": {
+            "300": {
+              "students": 4,
+              "reservations": 3
+            }
+          },
+          "total_students": 4,
+          "total_reservations": 3
+        },
+        "Rccore": {
+          "levels": {
+            "300": {
+              "students": 6,
+              "reservations": 3
+            }
+          },
+          "total_students": 6,
+          "total_reservations": 3
+        },
+        "Rclang": {
+          "levels": {
+            "100": {
+              "students": 24,
+              "reservations": 4
+            },
+            "200": {
+              "students": 86,
+              "reservations": 6
+            },
+            "300": {
+              "students": 23,
+              "reservations": 9
+            }
+          },
+          "total_students": 133,
+          "total_reservations": 19
+        },
+        "Romlang": {
+          "levels": {
+            "400": {
+              "students": 6,
+              "reservations": 4
+            }
+          },
+          "total_students": 6,
+          "total_reservations": 4
+        },
+        "Spanish": {
+          "levels": {
+            "100": {
+              "students": 270,
+              "reservations": 1
+            },
+            "200": {
+              "students": 1443,
+              "reservations": 117
+            },
+            "300": {
+              "students": 61,
+              "reservations": 27
+            },
+            "400": {
+              "students": 201,
+              "reservations": 90
+            }
+          },
+          "total_students": 1975,
+          "total_reservations": 235
+        }
+      }
+    }
+  }
+}

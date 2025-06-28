@@ -1,0 +1,94 @@
+{
+  "terms": {
+    "SpSu 2020": {
+      "total_students": 648,
+      "total_reservations": 203,
+      "departments": {
+        "French": {
+          "levels": {
+            "200": {
+              "students": 125,
+              "reservations": 25
+            }
+          },
+          "total_students": 125,
+          "total_reservations": 25
+        },
+        "German": {
+          "levels": {
+            "100": {
+              "students": 9,
+              "reservations": 7
+            },
+            "200": {
+              "students": 37,
+              "reservations": 39
+            },
+            "300": {
+              "students": 49,
+              "reservations": 22
+            }
+          },
+          "total_students": 95,
+          "total_reservations": 68
+        },
+        "Hebrew": {
+          "levels": {
+            "200": {
+              "students": 10,
+              "reservations": 5
+            }
+          },
+          "total_students": 10,
+          "total_reservations": 5
+        },
+        "History": {
+          "levels": {
+            "200": {
+              "students": 33,
+              "reservations": 2
+            }
+          },
+          "total_students": 33,
+          "total_reservations": 2
+        },
+        "Russian": {
+          "levels": {
+            "300": {
+              "students": 6,
+              "reservations": 1
+            },
+            "400": {
+              "students": 1,
+              "reservations": 1
+            }
+          },
+          "total_students": 7,
+          "total_reservations": 2
+        },
+        "Spanish": {
+          "levels": {
+            "100": {
+              "students": 14,
+              "reservations": 3
+            },
+            "200": {
+              "students": 287,
+              "reservations": 65
+            },
+            "300": {
+              "students": 23,
+              "reservations": 8
+            },
+            "400": {
+              "students": 54,
+              "reservations": 25
+            }
+          },
+          "total_students": 378,
+          "total_reservations": 101
+        }
+      }
+    }
+  }
+}

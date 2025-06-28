@@ -1,0 +1,454 @@
+{
+  "terms": {
+    "Fall 2024": {
+      "total_students": 4795,
+      "total_reservations": 494,
+      "departments": {
+        "Asian: Tibetan": {
+          "levels": {
+            "200": {
+              "students": 250,
+              "reservations": 2
+            }
+          },
+          "total_students": 250,
+          "total_reservations": 2
+        },
+        "Asian: English": {
+          "levels": {
+            "200": {
+              "students": 180,
+              "reservations": 1
+            }
+          },
+          "total_students": 180,
+          "total_reservations": 1
+        },
+        "Asian: Korean": {
+          "levels": {
+            "200": {
+              "students": 23,
+              "reservations": 2
+            }
+          },
+          "total_students": 23,
+          "total_reservations": 2
+        },
+        "Asian: Japanese": {
+          "levels": {
+            "200": {
+              "students": 50,
+              "reservations": 1
+            }
+          },
+          "total_students": 50,
+          "total_reservations": 1
+        },
+        "Asian: German": {
+          "levels": {
+            "400": {
+              "students": 7,
+              "reservations": 2
+            }
+          },
+          "total_students": 7,
+          "total_reservations": 2
+        },
+        "Asian/amcult": {
+          "levels": {
+            "200": {
+              "students": 50,
+              "reservations": 5
+            }
+          },
+          "total_students": 50,
+          "total_reservations": 5
+        },
+        "Asianlan: English": {
+          "levels": {
+            "200": {
+              "students": 4,
+              "reservations": 4
+            }
+          },
+          "total_students": 4,
+          "total_reservations": 4
+        },
+        "Asianlan: Thai": {
+          "levels": {
+            "300": {
+              "students": 1,
+              "reservations": 1
+            }
+          },
+          "total_students": 1,
+          "total_reservations": 1
+        },
+        "Asianlan: Other": {
+          "levels": {
+            "400": {
+              "students": 9,
+              "reservations": 1
+            }
+          },
+          "total_students": 9,
+          "total_reservations": 1
+        },
+        "Complit": {
+          "levels": {
+            "100": {
+              "students": 18,
+              "reservations": 1
+            },
+            "300": {
+              "students": 38,
+              "reservations": 21
+            }
+          },
+          "total_students": 56,
+          "total_reservations": 22
+        },
+        "Dutch": {
+          "levels": {
+            "200": {
+              "students": 10,
+              "reservations": 1
+            },
+            "300": {
+              "students": 1,
+              "reservations": 2
+            }
+          },
+          "total_students": 11,
+          "total_reservations": 3
+        },
+        "Eli": {
+          "levels": {
+            "300": {
+              "students": 15,
+              "reservations": 4
+            }
+          },
+          "total_students": 15,
+          "total_reservations": 4
+        },
+        "French": {
+          "levels": {
+            "200": {
+              "students": 484,
+              "reservations": 20
+            },
+            "300": {
+              "students": 54,
+              "reservations": 17
+            }
+          },
+          "total_students": 538,
+          "total_reservations": 37
+        },
+        "German": {
+          "levels": {
+            "100": {
+              "students": 203,
+              "reservations": 5
+            },
+            "200": {
+              "students": 147,
+              "reservations": 26
+            },
+            "300": {
+              "students": 70,
+              "reservations": 8
+            },
+            "500": {
+              "students": 5,
+              "reservations": 1
+            },
+            "700": {
+              "students": 5,
+              "reservations": 2
+            }
+          },
+          "total_students": 430,
+          "total_reservations": 42
+        },
+        "Greekmod": {
+          "levels": {
+            "200": {
+              "students": 31,
+              "reservations": 9
+            },
+            "300": {
+              "students": 25,
+              "reservations": 27
+            }
+          },
+          "total_students": 56,
+          "total_reservations": 36
+        },
+        "History": {
+          "levels": {
+            "300": {
+              "students": 35,
+              "reservations": 1
+            }
+          },
+          "total_students": 35,
+          "total_reservations": 1
+        },
+        "Italian": {
+          "levels": {
+            "100": {
+              "students": 140,
+              "reservations": 1
+            },
+            "200": {
+              "students": 150,
+              "reservations": 1
+            },
+            "300": {
+              "students": 27,
+              "reservations": 19
+            },
+            "600": {
+              "students": 10,
+              "reservations": 3
+            }
+          },
+          "total_students": 327,
+          "total_reservations": 24
+        },
+        "Judaic": {
+          "levels": {
+            "200": {
+              "students": 70,
+              "reservations": 5
+            }
+          },
+          "total_students": 70,
+          "total_reservations": 5
+        },
+        "Lacs": {
+          "levels": {
+            "400": {
+              "students": 1,
+              "reservations": 5
+            }
+          },
+          "total_students": 1,
+          "total_reservations": 5
+        },
+        "Mideast": {
+          "levels": {
+            "200": {
+              "students": 16,
+              "reservations": 9
+            },
+            "300": {
+              "students": 50,
+              "reservations": 19
+            },
+            "400": {
+              "students": 15,
+              "reservations": 6
+            }
+          },
+          "total_students": 81,
+          "total_reservations": 34
+        },
+        "Musicol": {
+          "levels": {
+            "300": {
+              "students": 29,
+              "reservations": 2
+            }
+          },
+          "total_students": 29,
+          "total_reservations": 2
+        },
+        "Polish": {
+          "levels": {
+            "200": {
+              "students": 29,
+              "reservations": 2
+            }
+          },
+          "total_students": 29,
+          "total_reservations": 2
+        },
+        "Rccore": {
+          "levels": {
+            "100": {
+              "students": 11,
+              "reservations": 2
+            },
+            "300": {
+              "students": 6,
+              "reservations": 5
+            }
+          },
+          "total_students": 17,
+          "total_reservations": 7
+        },
+        "Rchums": {
+          "levels": {
+            "300": {
+              "students": 36,
+              "reservations": 12
+            }
+          },
+          "total_students": 36,
+          "total_reservations": 12
+        },
+        "Rclang": {
+          "levels": {
+            "100": {
+              "students": 28,
+              "reservations": 3
+            },
+            "200": {
+              "students": 87,
+              "reservations": 3
+            },
+            "300": {
+              "students": 21,
+              "reservations": 4
+            }
+          },
+          "total_students": 136,
+          "total_reservations": 10
+        },
+        "Reees": {
+          "levels": {
+            "300": {
+              "students": 100,
+              "reservations": 2
+            }
+          },
+          "total_students": 100,
+          "total_reservations": 2
+        },
+        "Russian": {
+          "levels": {
+            "100": {
+              "students": 9,
+              "reservations": 1
+            },
+            "300": {
+              "students": 10,
+              "reservations": 1
+            }
+          },
+          "total_students": 19,
+          "total_reservations": 2
+        },
+        "Scand": {
+          "levels": {
+            "300": {
+              "students": 50,
+              "reservations": 5
+            }
+          },
+          "total_students": 50,
+          "total_reservations": 5
+        },
+        "Slavic: English": {
+          "levels": {
+            "200": {
+              "students": 41,
+              "reservations": 10
+            }
+          },
+          "total_students": 41,
+          "total_reservations": 10
+        },
+        "Slavic: Serbian": {
+          "levels": {
+            "200": {
+              "students": 16,
+              "reservations": 13
+            }
+          },
+          "total_students": 16,
+          "total_reservations": 13
+        },
+        "Slavic: Other": {
+          "levels": {
+            "200": {
+              "students": 99,
+              "reservations": 1
+            }
+          },
+          "total_students": 99,
+          "total_reservations": 1
+        },
+        "Slavic: Russian": {
+          "levels": {
+            "200": {
+              "students": 49,
+              "reservations": 2
+            }
+          },
+          "total_students": 49,
+          "total_reservations": 2
+        },
+        "Slavic: Polish": {
+          "levels": {
+            "200": {
+              "students": 78,
+              "reservations": 4
+            }
+          },
+          "total_students": 78,
+          "total_reservations": 4
+        },
+        "Slavic: Yiddish": {
+          "levels": {
+            "200": {
+              "students": 100,
+              "reservations": 2
+            }
+          },
+          "total_students": 100,
+          "total_reservations": 2
+        },
+        "Spanish": {
+          "levels": {
+            "100": {
+              "students": 70,
+              "reservations": 2
+            },
+            "200": {
+              "students": 1495,
+              "reservations": 121
+            },
+            "300": {
+              "students": 94,
+              "reservations": 11
+            },
+            "400": {
+              "students": 122,
+              "reservations": 44
+            },
+            "800": {
+              "students": 8,
+              "reservations": 3
+            }
+          },
+          "total_students": 1789,
+          "total_reservations": 181
+        },
+        "Wgs": {
+          "levels": {
+            "100": {
+              "students": 13,
+              "reservations": 7
+            }
+          },
+          "total_students": 13,
+          "total_reservations": 7
+        }
+      }
+    }
+  }
+}

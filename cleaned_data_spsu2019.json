@@ -1,0 +1,102 @@
+{
+  "terms": {
+    "SpSu 2019": {
+      "total_students": 484,
+      "total_reservations": 135,
+      "departments": {
+        "Aas": {
+          "levels": {
+            "100": {
+              "students": 10,
+              "reservations": 3
+            }
+          },
+          "total_students": 10,
+          "total_reservations": 3
+        },
+        "Csp": {
+          "levels": {
+            "100": {
+              "students": 16,
+              "reservations": 1
+            }
+          },
+          "total_students": 16,
+          "total_reservations": 1
+        },
+        "French": {
+          "levels": {
+            "200": {
+              "students": 83,
+              "reservations": 20
+            }
+          },
+          "total_students": 83,
+          "total_reservations": 20
+        },
+        "German": {
+          "levels": {
+            "100": {
+              "students": 14,
+              "reservations": 11
+            },
+            "200": {
+              "students": 30,
+              "reservations": 39
+            },
+            "300": {
+              "students": 22,
+              "reservations": 1
+            }
+          },
+          "total_students": 66,
+          "total_reservations": 51
+        },
+        "Hebrew": {
+          "levels": {
+            "200": {
+              "students": 20,
+              "reservations": 2
+            }
+          },
+          "total_students": 20,
+          "total_reservations": 2
+        },
+        "Judaic": {
+          "levels": {
+            "200": {
+              "students": 11,
+              "reservations": 1
+            }
+          },
+          "total_students": 11,
+          "total_reservations": 1
+        },
+        "Russian": {
+          "levels": {
+            "300": {
+              "students": 11,
+              "reservations": 3
+            }
+          },
+          "total_students": 11,
+          "total_reservations": 3
+        },
+        "Spanish": {
+          "levels": {
+            "100": {
+              "students": 54,
+              "reservations": 6
+            },
+            "200": {
+              "students": 213,
+              "reservations": 48
+            }
+          },
+          "total_students": 267,
+          "total_reservations": 54
+        }
+      }
+    }
+  }
+}
