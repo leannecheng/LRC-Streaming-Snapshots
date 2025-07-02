@@ -4,7 +4,7 @@ Welcome to **LRC Streaming Snapshots**! This was a dashboard I was commissioned 
 
 Before this tool, streaming checkout data was never visualized, and it just sat in spreadsheets. Staff spent **up to 12 hours every term** manually cleaning and sorting the data to get even basic summaries. Now, they can upload a file and get **clean, interactive charts in seconds**, helping them make faster, data-driven decisions about resource allocation and program support.
 
-> ## 🌐 [View Live Demo](https://lrc-streaming-dashboard.streamlit.app/)
+ ## 🌐 [View Live Demo](https://lrc-streaming-snapshots.streamlit.app/)
 ## 📊 What it does
 
 - Tracks streaming activity across terms
